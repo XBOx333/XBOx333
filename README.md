@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Python
+
+- ![good morning](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEwZ2xudGRtbWs1cGxkMHRyc3FqamZ5Zzc5aXVmeWxlNHg5MGNoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MJp9HJBMGVfLps9zsN/giphy.gif)
