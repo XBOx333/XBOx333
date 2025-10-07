@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 ##### My Github Stats
 
-![XBOx333's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]
+![XBOx333's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)&show_icons=true&theme=gruvbox)
