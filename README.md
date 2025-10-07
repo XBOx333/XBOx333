@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
 
-
 - ![good morning](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEwZ2xudGRtbWs1cGxkMHRyc3FqamZ5Zzc5aXVmeWxlNHg5MGNoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MJp9HJBMGVfLps9zsN/giphy.gif)
 
+##### My Github Stats
+
+![XBOx333's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
